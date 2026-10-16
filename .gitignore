@@ -1,0 +1,18 @@
+# Fotos de referencia (pessoas reais) ficam so no PC
+*.jpg
+*.jpeg
+*.bmp
+JPEG/
+
+# Versao antiga de 30 mil triangulos, substituida por GLB_100k
+GLB_leve/
+
+# Backups do Blender
+*.blend1
+
+# Configuracao local do Claude Code
+.claude/
+
+# Modelos originais (alta resolucao) ficam so no PC / backup
+GLB/
+off-road buggy 3d model.glb
